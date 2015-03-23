@@ -11,3 +11,5 @@ __Planned features:__
 
 * Name
 * Nationality
+* Paranoia
+
